@@ -22,6 +22,13 @@ The Air Pollution Inequality GeoHub aims to function as an informative and robus
 
 ## Geospatial Open Data Sources
 
+Air Pollution Data (Criteria Air Contaminants) 
+https://open.canada.ca/data/en/dataset/c23b46e2-e723-4416-bd82-de2cbad85e07?fbclid=IwAR1pdsJedmYieojHANNwHiHlWbZ4dYn3UTJRF_WY-h_aq5d-nYyeKAFe-9k
+
+Census Data 
+https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/index-eng.cfm
+
+
 ## Sources 
 
  
