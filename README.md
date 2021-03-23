@@ -1,6 +1,6 @@
 # CodeRed by Error-999999
 
-Code Red is an informative and robust web application that highlights air pollution in neighbourhoods across Canada that suffer from inequality. The goal of this application is to identify hotspots for environmental racism that require priority attention. 
+Code Red is an informative and robust web application that highlights air pollution in neighbourhoods across Canada that suffer from inequality. The goal of this application is to identify hotspots for environmental racism  and other environmental inequities that require priority attention. 
 
 ## Team
 * Emma Sherwood 
