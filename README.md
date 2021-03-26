@@ -12,10 +12,12 @@ In Canada, chronic exposure to various airborne substances contributes tremendou
 
 A 2018 analysis found that health inequalities exist on various socioeconomic statuses including income and employment, and that certain groups such as Indigenous peoples, immigrants, and racial minorities, had worse health outcomes than the general population. More than one million low-income Canadians live within one kilometer of a major source of industrial air pollution. Approximately 20.8% of racialized people are of low-income households compared to 12.2% of non-racialized people. A 2015 study of North America found that lower-socioeconomic status communities are exposed to higher concentrations of air pollutants. A 2008 mapping of 17 neighborhoods in Toronto showed a high correlation between air pollutants and poverty rates. In 2001, a study in Montreal found that higher air pollution was positively associated with higher unemployment rates and individuals with less than high school education. Interpolated surfaces in Hamilton showed a twofold increase in air pollution concentration amongst populations with lower socioeconomic status throughout the late 1990s and early 2000s. These groups are victims of environmental inequality that has persisted in Canada since colonial rule, leading to severe health implications and unjust living conditions for those impacted.
 
-The Air Pollution Inequality GeoHub aims to function as an informative and robust application to support the identification of air pollution hotspots and vulnerable communities most affected by it. 
+The Air Pollution Inequality GeoHub aims to function as an informative and robust application to support the identification of air pollution hotspots and vulnerable communities most affected by it. The major sources of air pollution identified in this application are industrial facilities as well as motor vehicles. The demographic groups and characteristics analyzed include people of colour, indigenous people, low income groups, and unemployment rate. The purpose is to aggregate and display information and geospatial data that reveals the disproportionate relationship of air quality on various demographic groups by location. 
 
 ## GeoHub Description and Features 
-1. One
+
+### Page 1 
+
 2. Two
 3. Three
 4. Four
