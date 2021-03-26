@@ -53,37 +53,35 @@ This data was retrieved from the 2016 Canadian census.
 ## References
 
 ### Articles and Websites 
-[1] Pollution in Hamilton Candy Factory https://investinhamilton.ca/blog/2019/10/24/sweet-on-sour-kids-hamilton-candy-factory-launches-40-million-expansion/ 
+[1] World Health Organization (WHO) https://www.who.int/airpollution/ambient/pollutants/en/#:~:text=In%20addition%20to%20their%20role,fossil%20fuel%20and%20agricultural%20industry. 
 
-[2] World Helath Organization (WHO) https://www.who.int/airpollution/ambient/pollutants/en/#:~:text=In%20addition%20to%20their%20role,fossil%20fuel%20and%20agricultural%20industry. 
+[2] Canadian Urban Forest Strategy 2019-2024 https://treecanada.ca/wp-content/uploads/2018/10/TC-CUFS-2019-2024-Eng-1.pdf  
 
-[3] Canadian Urban Forest Strategy 2019-2024 https://treecanada.ca/wp-content/uploads/2018/10/TC-CUFS-2019-2024-Eng-1.pdf  
-
-[4] Air pollution removal by urban forests in Canada and its effect on air quality
+[3] Air pollution removal by urban forests in Canada and its effect on air quality
 and human health https://www.fs.fed.us/nrs/pubs/jrnl/2018/nrs_2018_nowak_001.pdf  
 
-[5] Government of Canada, Criteria Air Contaminants Technical Guide http://publications.gc.ca/site/eng/243272/publication.html#  
+[4] Government of Canada, Criteria Air Contaminants Technical Guide http://publications.gc.ca/site/eng/243272/publication.html#  
 
-[6] Minnesota Pollution Control Agency https://www.pca.state.mn.us/air/who-risk-air-pollution#:~:text=The%20groups%20most%20affected%20by,of%20heart%20and%20lung%20conditions. 
+[5] Minnesota Pollution Control Agency https://www.pca.state.mn.us/air/who-risk-air-pollution#:~:text=The%20groups%20most%20affected%20by,of%20heart%20and%20lung%20conditions. 
 
-[7] Government of Canada, About the Air Quality Health Index https://www.canada.ca/en/environment-climate-change/services/air-quality-health-index/about.html#calculated  
+[6] Government of Canada, About the Air Quality Health Index https://www.canada.ca/en/environment-climate-change/services/air-quality-health-index/about.html#calculated  
 
-[8] The Spec, Downtown Hamilton Air Pollution https://www.thespec.com/news/hamilton-region/2016/10/20/downtown-hamilton-has-worst-air-pollution-in-province-cancer-care-ontario.html#:~:text=Hamilton%20scores%20low%20at%20preventing,prevention%20at%20Cancer%20Care%20Ontario. 
+[7] The Spec, Downtown Hamilton Air Pollution https://www.thespec.com/news/hamilton-region/2016/10/20/downtown-hamilton-has-worst-air-pollution-in-province-cancer-care-ontario.html#:~:text=Hamilton%20scores%20low%20at%20preventing,prevention%20at%20Cancer%20Care%20Ontario. 
 
-[9] American Lung Association https://www.lung.org/clean-air/outdoors/who-is-at-risk/disparities 
+[8] American Lung Association https://www.lung.org/clean-air/outdoors/who-is-at-risk/disparities 
 
-[10] Human Rights Coucil, Advanced Unedited Version http://www.srtoxics.org/wp-content/uploads/2020/09/Canada-HRC-45_AUV.pdf 
+[9] Human Rights Coucil, Advanced Unedited Version http://www.srtoxics.org/wp-content/uploads/2020/09/Canada-HRC-45_AUV.pdf 
 
-[11] Socio-economic Correlates of Municipal-level Pollution Emissions on Montreal Island 
+[10] Socio-economic Correlates of Municipal-level Pollution Emissions on Montreal Island 
 https://www.jstor.org/stable/41995781?seq=1 
 
-[12] A GIS–Environmental Justice Analysis of Particulate Air Pollution in Hamilton, Canada https://journals.sagepub.com/doi/abs/10.1068/a33137 
+[11] A GIS–Environmental Justice Analysis of Particulate Air Pollution in Hamilton, Canada https://journals.sagepub.com/doi/abs/10.1068/a33137 
 
-[13] Indigenous Peoples in Canada https://www.thecanadianencyclopedia.ca/en/article/aboriginal-people 
+[12] Indigenous Peoples in Canada https://www.thecanadianencyclopedia.ca/en/article/aboriginal-people 
 
-[14] Immigration and Ethnocultural Diversity in Canada https://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-010-x/99-010-x2011001-eng.cfm 
+[13] Immigration and Ethnocultural Diversity in Canada https://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-010-x/99-010-x2011001-eng.cfm 
 
-[15] Government of Canada, Sources of Air Pollution 
+[14] Government of Canada, Sources of Air Pollution 
 https://www.canada.ca/en/environment-climate-change/services/air-pollution/sources.html 
 
 ### Images 
