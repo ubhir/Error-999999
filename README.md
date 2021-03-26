@@ -16,11 +16,27 @@ The Air Pollution Inequality GeoHub aims to function as an informative and robus
 
 ## GeoHub Description and Features 
 
-### Page 1 
+### Page 1 "Home"
+The home page is designed to provide information about how air quality and health is measured and calculated in Canada, as well as links to 3rd party real time applications which measure air quality based on particulate matter. It introduces areas of high air pollution and then vulnurable and at-risk groups that experience environmental inequality across Canada. The banner along the bottom of the geohub contains links to other pages. 
 
-2. Two
-3. Three
-4. Four
+### Page 2 "Geographic and Demographic Data"
+Page 2 is an overview of the data used to investigate the geographic and demographic relationship to air pollution. It is divided into 'Air Pollution Data' and 'Demographic Data', with links to sources and additional information embedded. The geohub focuses on select air pollutants released from heavy polluting sectors. The data was retrieved from the National Pollutant Release Inventory and Statistics Canada. The demographic data used to highlight environmental inequality across canada focuses on two groups and two socioeconomic factors: 
+
+1. Visible Minorities 
+2. Aboriginal Peoples 
+3. Income 
+4. Unemployment Rate
+
+This data was retrieved from the 2016 Canadian census. 
+
+### Page 3 "About Vulnurable Groups"
+Page 3 is a deeper dive into the demographic groups analyzed. It explains why these specific groups and socioeconomic variables were chosen and how they have influenced environmental inequality in Canada over decades. All of the work on this page references scholaraly articles published across Canada. 
+
+### Page 4 "BIPOC WebApp"
+Page 4 is the BIPOC WebApp. It hosts two applications, one dedicated to facility air pollution and the second to motor vehicle air emissions. Both applications reference the introductory "Using the Web Apps" section, which better explains how the applications can be used to identify inequalities related to race and ethnicity. You may be amazed by what you find! 
+
+### Page 5 "Income and Employment WebApp" 
+Page 5 is the Income and Employment WebApp. It hosts two applications, one dedicated to facility air pollution and the second to motor vehicle air emissions. Both applications reference the introductory "Using the Web Apps" section, which better explains how the applications can be used to identify inequalities relaed to income and employment. You may be amazed by what you find! 
 
 ## Geospatial Open Data Sources
 
