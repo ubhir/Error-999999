@@ -85,6 +85,28 @@ https://www.jstor.org/stable/41995781?seq=1
 https://www.canada.ca/en/environment-climate-change/services/air-pollution/sources.html 
 
 ### Images 
-Image: https://www.pca.state.mn.us/featured/air-we-breathe-2019  
+*All images are Creative Commons Liscenced 
 
-Image: https://www.thenation.com/article/archive/race-best-predicts-whether-you-live-near-pollution/ 
+[1] Toronto Bookmark https://www.google.com/search?q=toronto&tbm=isch&hl=en-GB&safe=active&tbs=il:cl&rlz=1C1CHBF_enCA898CA898&sa=X&ved=0CAAQ1vwEahcKEwjIzaO78czvAhUAAAAAHQAAAAAQAg&biw=1899&bih=873#imgrc=r9YGtl_2Ly_YuM
+
+[2] Montreal Bookmark https://www.google.com/search?q=montreal&tbm=isch&hl=en-GB&safe=active&tbs=il:cl&rlz=1C1CHBF_enCA898CA898&sa=X&ved=0CAAQ1vwEahcKEwiA5MWR8szvAhUAAAAAHQAAAAAQAg&biw=1899&bih=873#imgrc=WfxWRJgmuaIvPM
+
+[3] Ottawa Bookmark https://www.google.com/search?q=ottawa%20parliament&tbm=isch&hl=en-GB&safe=active&tbs=il:cl&rlz=1C1CHBF_enCA898CA898&sa=X&ved=0CAAQ1vwEahcKEwio9r3I9czvAhUAAAAAHQAAAAAQAg&biw=1899&bih=873#imgrc=xG0VBmYjpqkQ4M
+
+[4] Vancouver Bookmark https://www.google.com/search?q=vancouver&tbm=isch&safe=active&tbs=il:cl&rlz=1C1CHBF_enCA898CA898&hl=en-GB&sa=X&ved=0CAAQ1vwEahcKEwi4qJ3q88zvAhUAAAAAHQAAAAAQAg&biw=1899&bih=873#imgrc=lLe5zHGXjgrT5M
+
+[5] Calgary Bookmark https://www.google.com/search?q=calgary&tbm=isch&hl=en-GB&safe=active&tbs=il:cl&rlz=1C1CHBF_enCA898CA898&sa=X&ved=0CAAQ1vwEahcKEwjAzID38szvAhUAAAAAHQAAAAAQAg&biw=1899&bih=873#imgrc=2wL0vU_zHKJ97M
+
+[6] Edmonton Bookmark https://www.google.com/search?q=edmonton&tbm=isch&hl=en-GB&safe=active&tbs=il:cl&rlz=1C1CHBF_enCA898CA898&sa=X&ved=0CAAQ1vwEahcKEwiguIWC88zvAhUAAAAAHQAAAAAQAw&biw=1899&bih=873#imgrc=LOKryGLpqftNOM
+
+[7] Winnipeg Bookmark https://www.google.com/search?q=winnipeg%20downtown&tbm=isch&hl=en-GB&safe=active&tbs=il:cl&rlz=1C1CHBF_enCA898CA898&sa=X&ved=0CAAQ1vwEahcKEwio4qvv9MzvAhUAAAAAHQAAAAAQAg&biw=1899&bih=873#imgrc=R7gGgNZwMc2nhM
+
+[8] Regina Bookmark https://www.google.com/search?q=regina&tbm=isch&safe=active&tbs=il:cl&rlz=1C1CHBF_enCA898CA898&hl=en-GB&sa=X&ved=0CAAQ1vwEahcKEwjIos2K9czvAhUAAAAAHQAAAAAQAg&biw=1899&bih=873#imgrc=U2vJBUPCiE9Q4M
+
+[9] Halifax Bookmark https://www.google.com/search?q=halifax&tbm=isch&hl=en-GB&safe=active&tbs=il:cl&rlz=1C1CHBF_enCA898CA898&sa=X&ved=0CAAQ1vwEahcKEwiA8b2r88zvAhUAAAAAHQAAAAAQAg&biw=1899&bih=873#imgrc=XIkVwGDy_HPUyM
+
+[10] St. John's Bookmark https://www.google.com/search?q=st.john%27s+newfoundland&tbm=isch&hl=en-GB&safe=active&bih=873&biw=1899&rlz=1C1CHBF_enCA898CA898&sa=X&ved=2ahUKEwjVxMS588zvAhUBFc0KHTyqAx8QBXoECAEQQw#imgrc=OQXg3YPkpdn-5M
+
+[11] The Air We Breathe https://www.pca.state.mn.us/featured/air-we-breathe-2019  
+
+[12] Race Best Predicts Whether You Live Near Pollution https://www.thenation.com/article/archive/race-best-predicts-whether-you-live-near-pollution/ 
