@@ -85,7 +85,7 @@ https://www.jstor.org/stable/41995781?seq=1
 https://www.canada.ca/en/environment-climate-change/services/air-pollution/sources.html 
 
 ### Images 
-**All images are Creative Commons Liscenced 
+All images are Creative Commons Liscenced 
 
 [1] Toronto Bookmark https://www.google.com/search?q=toronto&tbm=isch&hl=en-GB&safe=active&tbs=il:cl&rlz=1C1CHBF_enCA898CA898&sa=X&ved=0CAAQ1vwEahcKEwjIzaO78czvAhUAAAAAHQAAAAAQAg&biw=1899&bih=873#imgrc=r9YGtl_2Ly_YuM
 
