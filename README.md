@@ -40,17 +40,53 @@ This data was retrieved from the 2016 Canadian census.
 
 ## Geospatial Open Data Sources
 
-Air Pollution Data:  
-https://open.canada.ca/data/en/dataset/c23b46e2-e723-4416-bd82-de2cbad85e07?fbclid=IwAR1pdsJedmYieojHANNwHiHlWbZ4dYn3UTJRF_WY-h_aq5d-nYyeKAFe-9k
+[1] Government of Canada, 2016 Census https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/index-eng.cfm 
 
-Census Data: 
-https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/index-eng.cfm
+[2] Government of Canada, Canada's Air Pollutant Emissions Inventory https://open.canada.ca/data/en/dataset/fa1c88a8-bf78-4fcb-9c1e-2a5534b92131 
 
-## Sources 
+[3] Government of Canada, Map of reporting facilities – geodatabase https://open.canada.ca/data/en/dataset/c23b46e2-e723-4416-bd82-de2cbad85e07 
 
-http://www.srtoxics.org/wp-content/uploads/2020/09/Canada-HRC-45_AUV.pdf 
-https://jech.bmj.com/content/58/1/31.short
-https://journals.sagepub.com/doi/abs/10.1068/a33137
-https://link.springer.com/article/10.1007/s40572-015-0069-5
-https://link.springer.com/article/10.17269/CJPH.108.6166
-https://www.jstor.org/stable/41995781?seq=1
+[4] Government of Canada, Road Network https://www12.statcan.gc.ca/census-recensement/2011/geo/RNF-FRR/index-eng.cfm
+
+[5] IQAir Application, https://www.iqair.com/ca/ 
+
+## References
+
+### Articles and Websites 
+[1] Pollution in Hamilton Candy Factory https://investinhamilton.ca/blog/2019/10/24/sweet-on-sour-kids-hamilton-candy-factory-launches-40-million-expansion/ 
+
+[2] World Helath Organization (WHO) https://www.who.int/airpollution/ambient/pollutants/en/#:~:text=In%20addition%20to%20their%20role,fossil%20fuel%20and%20agricultural%20industry. 
+
+[3] Canadian Urban Forest Strategy 2019-2024 https://treecanada.ca/wp-content/uploads/2018/10/TC-CUFS-2019-2024-Eng-1.pdf  
+
+[4] Air pollution removal by urban forests in Canada and its effect on air quality
+and human health https://www.fs.fed.us/nrs/pubs/jrnl/2018/nrs_2018_nowak_001.pdf  
+
+[5] Government of Canada, Criteria Air Contaminants Technical Guide http://publications.gc.ca/site/eng/243272/publication.html#  
+
+[6] Minnesota Pollution Control Agency https://www.pca.state.mn.us/air/who-risk-air-pollution#:~:text=The%20groups%20most%20affected%20by,of%20heart%20and%20lung%20conditions. 
+
+[7] Government of Canada, About the Air Quality Health Index https://www.canada.ca/en/environment-climate-change/services/air-quality-health-index/about.html#calculated  
+
+[8] The Spec, Downtown Hamilton Air Pollution https://www.thespec.com/news/hamilton-region/2016/10/20/downtown-hamilton-has-worst-air-pollution-in-province-cancer-care-ontario.html#:~:text=Hamilton%20scores%20low%20at%20preventing,prevention%20at%20Cancer%20Care%20Ontario. 
+
+[9] American Lung Association https://www.lung.org/clean-air/outdoors/who-is-at-risk/disparities 
+
+[10] Human Rights Coucil, Advanced Unedited Version http://www.srtoxics.org/wp-content/uploads/2020/09/Canada-HRC-45_AUV.pdf 
+
+[11] Socio-economic Correlates of Municipal-level Pollution Emissions on Montreal Island 
+https://www.jstor.org/stable/41995781?seq=1 
+
+[12] A GIS–Environmental Justice Analysis of Particulate Air Pollution in Hamilton, Canada https://journals.sagepub.com/doi/abs/10.1068/a33137 
+
+[13] Indigenous Peoples in Canada https://www.thecanadianencyclopedia.ca/en/article/aboriginal-people 
+
+[14] Immigration and Ethnocultural Diversity in Canada https://www12.statcan.gc.ca/nhs-enm/2011/as-sa/99-010-x/99-010-x2011001-eng.cfm 
+
+[15] Government of Canada, Sources of Air Pollution 
+https://www.canada.ca/en/environment-climate-change/services/air-pollution/sources.html 
+
+### Images 
+Image: https://www.pca.state.mn.us/featured/air-we-breathe-2019  
+
+Image: https://www.thenation.com/article/archive/race-best-predicts-whether-you-live-near-pollution/ 
